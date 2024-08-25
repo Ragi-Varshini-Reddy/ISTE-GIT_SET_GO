@@ -42,3 +42,16 @@ header ul{
 .btn2{
     height: 36px;
 }
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(43, 42, 42);
+    padding: 1rem;
+    margin: 1rem;
+}
+footer p{
+    padding-top: 0.3rem;
+}
+.para2{
+    color: white;
+}
