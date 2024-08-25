@@ -55,3 +55,9 @@ footer p{
 .para2{
     color: white;
 }
+.color1{
+    background-color: rgb(153, 228, 226);
+}
+#color2{
+    background-color: antiquewhite;
+}
